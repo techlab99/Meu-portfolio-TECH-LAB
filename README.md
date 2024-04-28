@@ -16,7 +16,7 @@ Descrição breve do projeto 1.
 
 - HTML
 - CSS
-- Bootstrap.
+- Bootstrap 5.
 
 ### 2. Nome do Projeto 2
 Obrigado por explorar nosso portfólio! Esperamos que nossos projetos demonstrem nossa paixão e expertise em tecnologia.
